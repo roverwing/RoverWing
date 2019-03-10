@@ -44,7 +44,7 @@ used in `First Tech Challenge <https://www.firstinspires.org/robotics/ftc>`_  ro
 
 `User Library <https://roverwing.github.io/RoverWingLibrary/>`_
 
-`Firmware<https://roverwing.github.io/RoverWingFirmware/>`_
+`Firmware <https://roverwing.github.io/RoverWingFirmware/>`_
 
 License
 =======
