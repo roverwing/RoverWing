@@ -40,11 +40,11 @@ Below is the list of key features of the RoverWing:
 The RoverWing uses same connectors for the power supply, motors, encoders, and I2C sensors as the `REV Robotics Expansion hub <http://www.revrobotics.com/rev-31-1153/>`_ 
 used in `First Tech Challenge <https://www.firstinspires.org/robotics/ftc>`_  robotics competition, so it can be easily used with the same motors and sensors. 
   
-`More Details about the hardware can be found at <https://roverwing.github.io/RoverWingHardware/>`_
+`More Details about the hardware <https://roverwing.github.io/RoverWingHardware/>`_
 
-`The user library can be found at <https://roverwing.github.io/RoverWingLibrary/>`_
+`The user library <https://roverwing.github.io/RoverWingLibrary/>`_
 
-`The firmware for the roverwing board can be found at <https://roverwing.github.io/RoverWingFirmware/>`_
+`The firmware for the roverwing board <https://roverwing.github.io/RoverWingFirmware/>`_
 
 License
 =======
