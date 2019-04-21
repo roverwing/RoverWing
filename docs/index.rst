@@ -15,9 +15,7 @@ of the Feather board for other purposes.
 The RoverWing was heavily influenced by Adafruit's `CRICKIT <https://www.adafruit.com/crickit>`_   board (in particular, it has exact same dimensions and 
 mounting holes as the CRICKIT board). However, unlike CRICKIT, it is intended for use with more powerful 12V motors 
 and provides a slightly different set of peripherals. The roverwing allows the user to have finer control over motors due to the ability to attach encoders to monitor each motor. The inclusion of breakouts for connecting to sonar sensors provides an advantage over the crickit board because it allows the user to build robots that can collect more information about their surroundings as opposed to the cricket board which does not support any sensors that allow the robot to gather information about its surroundings. The roverwing is more oriented towards the creation of small autonomous robots as opposed to the circkit's focus on stationary devices that interact with a user.
-.. image:: /j-jxlyVR.jpeg
-  :width: 400
-  :alt: 
+
 Below is the list of key features of the RoverWing:
 
 * Can be powered by 7-14V power source; contains a voltage regulator providing power to the Feather board
