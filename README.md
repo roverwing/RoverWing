@@ -1,11 +1,6 @@
-*********
-RoverWing
-
-
-
 Introduction
 ============
-RoverWing is a  shield (or "wing", following Adafruit's terminology) for Adafruit's `Feather boards <https://www.adafruit.com/feather>`_. 
+RoverWing is a  shield (or "wing", following Adafruit's terminology) for Adafruit's [Feather boards](https://www.adafruit.com/feather>)_.
 The Roverwing is designed to provide a low cost expansion board for feather boards that allows you to easily build and program simple robots. One can build a simple robot using a roverwing in about 15 minutes as is shown in our `Quick Start Guide <https://github.com/roverwing/RoverWingLibrary/wiki/6.-Building-a-Basic-Robot>`_
 This wing provides motor drivers, Inertial Motion Unit (IMU), and connection ports for servos, sonars, GPS, 
 and other peripherals commonly used by mobile robots. It also contains a microcontroller preloaded with firmware 
