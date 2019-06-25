@@ -1,13 +1,13 @@
 Introduction
 ============
-RoverWing is a  shield (or "wing", following Adafruit's terminology) for Adafruit's [Feather boards](https://www.adafruit.com/feather>)_.
-The Roverwing is designed to provide a low cost expansion board for feather boards that allows you to easily build and program simple robots. One can build a simple robot using a roverwing in about 15 minutes as is shown in our `Quick Start Guide <https://github.com/roverwing/RoverWingLibrary/wiki/6.-Building-a-Basic-Robot>`_
+RoverWing is a  shield (or "wing", following Adafruit's terminology) for Adafruit's [Feather boards](https://www.adafruit.com/feather)_.
+The Roverwing is designed to provide a low cost expansion board for feather boards that allows you to easily build and program simple robots. One can build a simple robot using a roverwing in about 15 minutes as is shown in our [Quick Start Guide](https://github.com/roverwing/RoverWingLibrary/wiki/6.-Building-a-Basic-Robot)_
 This wing provides motor drivers, Inertial Motion Unit (IMU), and connection ports for servos, sonars, GPS, 
 and other peripherals commonly used by mobile robots. It also contains a microcontroller preloaded with firmware 
 to control these peripherals, which communicates with the Feather board using I2C protocol, thus the freeing resources 
 of the Feather board for other purposes. 
 
-The RoverWing was heavily influenced by Adafruit's `CRICKIT <https://www.adafruit.com/crickit>`_   board (in particular, it has exact same dimensions and 
+The RoverWing was heavily influenced by Adafruit's [CRICKIT](https://www.adafruit.com/crickit) board (in particular, it has exact same dimensions and 
 mounting holes as the CRICKIT board). However, unlike CRICKIT, it is intended for use with more powerful 12V motors 
 and provides a slightly different set of peripherals. The roverwing allows the user to have finer control over motors due to the ability to attach encoders to monitor each motor. The inclusion of breakouts for connecting to sonar sensors provides an advantage over the crickit board because it allows the user to build robots that can collect more information about their surroundings as opposed to the cricket board which does not support any sensors that allow the robot to gather information about its surroundings. The roverwing is more oriented towards the creation of small autonomous robots as opposed to the circkit's focus on stationary devices that interact with a user.
 
@@ -33,14 +33,13 @@ Below is the list of key features of the RoverWing:
   - two additional I2C sensors
   
 
-The RoverWing uses same connectors for the power supply, motors, encoders, and I2C sensors as the `REV Robotics Expansion hub <http://www.revrobotics.com/rev-31-1153/>`_ 
-used in `First Tech Challenge <https://www.firstinspires.org/robotics/ftc>`_  robotics competition, so it can be easily used with the same motors and sensors. 
+The RoverWing uses same connectors for the power supply, motors, encoders, and I2C sensors as the [REV Robotics Expansion hub](http://www.revrobotics.com/rev-31-1153/) used in [REV First Tech Challenge](https://www.firstinspires.org/robotics/ftc) robotics competition, so it can be easily used with the same motors and sensors. 
   
-`Hardware Details <https://roverwing.github.io/RoverWingHardware/>`_
+[Hardware Details](https://roverwing.github.io/RoverWingHardware/)  
 
-`User Library <https://roverwing.github.io/RoverWingLibrary/>`_
+[User Library](https://roverwing.github.io/RoverWingLibrary/)
 
-`Firmware <https://roverwing.github.io/RoverWingFirmware/>`_
+[Firmware](https://roverwing.github.io/RoverWingFirmware/)
 
 License
 =======
